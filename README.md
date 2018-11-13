@@ -8,3 +8,9 @@ node app.js or use nodemon app.js (constantly refreshing if you make some change
 
 # browser
 see results at localhost port 3000 http://localhost:3000 in your browser
+
+# dependencies
+npm install
+npm install express
+npm install express-handlebars
+npm install nodemon (optional)
